@@ -1,0 +1,11 @@
+G:\Programování\C#\0A_Opakování\opakovani\opakovani3\bin\Debug\opakovani3.exe.config
+G:\Programování\C#\0A_Opakování\opakovani\opakovani3\bin\Debug\opakovani3.exe
+G:\Programování\C#\0A_Opakování\opakovani\opakovani3\bin\Debug\opakovani3.pdb
+G:\Programování\C#\0A_Opakování\opakovani\opakovani3\obj\Debug\opakovani3.csproj.AssemblyReference.cache
+G:\Programování\C#\0A_Opakování\opakovani\opakovani3\obj\Debug\opakovani3.csproj.SuggestedBindingRedirects.cache
+G:\Programování\C#\0A_Opakování\opakovani\opakovani3\obj\Debug\opakovani3.Form1.resources
+G:\Programování\C#\0A_Opakování\opakovani\opakovani3\obj\Debug\opakovani3.Properties.Resources.resources
+G:\Programování\C#\0A_Opakování\opakovani\opakovani3\obj\Debug\opakovani3.csproj.GenerateResource.cache
+G:\Programování\C#\0A_Opakování\opakovani\opakovani3\obj\Debug\opakovani3.csproj.CoreCompileInputs.cache
+G:\Programování\C#\0A_Opakování\opakovani\opakovani3\obj\Debug\opakovani3.exe
+G:\Programování\C#\0A_Opakování\opakovani\opakovani3\obj\Debug\opakovani3.pdb
